@@ -1,0 +1,28 @@
+Company,Sector,Type,4Q Out-of-Sample Score,8Q Out-of-Sample Score,Classification Status
+Alok Industries,Textiles,DISTRESSED,0.915,0.915,CORRECT ALARM (CAUGHT)
+Amtek Auto,Auto Components,DISTRESSED,0.915,0.915,CORRECT ALARM (CAUGHT)
+Bharti Airtel,Telecommunications,SOLVENT PEER,0.056,0.056,CORRECT SAFE
+Bhushan Steel,Steel & Manufacturing,DISTRESSED,0.913,0.913,CORRECT ALARM (CAUGHT)
+Blue Star,Consumer Electronics,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+Bosch Ltd,Auto Components,SOLVENT PEER,0.056,0.056,CORRECT SAFE
+Cholamandalam Investment,Infrastructure Finance (NBFC),SOLVENT PEER,0.056,0.056,CORRECT SAFE
+Dixon Technologies,Consumer Electronics,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+Endurance Technologies,Auto Components,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+JSW Steel,Steel & Manufacturing,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+Jindal Steel & Power,Steel & Manufacturing,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+KNR Constructions,Infrastructure & Construction,SOLVENT PEER,0.056,0.056,CORRECT SAFE
+KPR Mill,Textiles,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+Lanco Infratech,Infrastructure & Construction,DISTRESSED,0.913,0.913,CORRECT ALARM (CAUGHT)
+Larsen & Toubro (L&T),Infrastructure & Construction,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+Mahindra & Mahindra Financial Services,Infrastructure Finance (NBFC),SOLVENT PEER,0.059,0.059,CORRECT SAFE
+PNC Infratech,Infrastructure & Construction,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+Reliance Communications,Telecommunications,DISTRESSED,0.915,0.915,CORRECT ALARM (CAUGHT)
+Samvardhana Motherson,Auto Components,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+Shriram Finance,Infrastructure Finance (NBFC),SOLVENT PEER,0.056,0.056,CORRECT SAFE
+Srei Infrastructure Finance,Infrastructure Finance (NBFC),DISTRESSED,0.913,0.913,CORRECT ALARM (CAUGHT)
+Tata Communications,Telecommunications,SOLVENT PEER,0.056,0.056,CORRECT SAFE
+Tata Steel,Steel & Manufacturing,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+Vardhman Textiles,Textiles,SOLVENT PEER,0.056,0.056,CORRECT SAFE
+Videocon Industries,Consumer Electronics,DISTRESSED,0.913,0.913,CORRECT ALARM (CAUGHT)
+Voltas,Consumer Electronics,SOLVENT PEER,0.059,0.059,CORRECT SAFE
+Welspun India,Textiles,SOLVENT PEER,0.056,0.056,CORRECT SAFE

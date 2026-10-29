@@ -1,0 +1,46 @@
+Company,Sector,Actual Status,Event Date,4Q Out-of-Sample Score,8Q Out-of-Sample Score,Assigned Tier,Detection Verdict
+ABB India Ltd,Capital Goods,SOLVENT PEER,2019-08-09,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Amtek Auto Ltd,Auto Ancillary,DEFAULTED,2017-07-24,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+Avenue Supermarts Ltd (DMart),Retail,SOLVENT PEER,2022-07-20,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Axis Bank Ltd,Banking,SOLVENT PEER,2020-03-05,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+Bajaj Finance Ltd,NBFC,SOLVENT PEER,2018-09-01,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+Bharat Forge Ltd,Auto Ancillary,SOLVENT PEER,2017-07-24,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+Bhushan Steel Ltd,Steel,DEFAULTED,2017-07-26,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+Bosch Ltd,Auto Ancillary,SOLVENT PEER,2017-07-24,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+CG Power and Industrial Solutions Ltd,Capital Goods,DEFAULTED,2019-08-09,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+Cholamandalam Investment and Finance,NBFC,SOLVENT PEER,2018-09-01,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Coffee Day Enterprises Ltd,F&B/Retail,DEFAULTED,2019-07-30,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+Cummins India Ltd,Capital Goods,SOLVENT PEER,2019-08-09,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+Devyani International Ltd,F&B/Retail,SOLVENT PEER,2019-07-30,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Dewan Housing Finance Corporation (DHFL),Housing Finance,DEFAULTED,2019-06-04,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+Federal Bank Ltd,Banking,SOLVENT PEER,2020-03-05,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Future Retail Ltd,Retail,DEFAULTED,2022-07-20,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+Havells India Ltd,Capital Goods,SOLVENT PEER,2019-08-09,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+ICICI Bank Ltd,Banking,SOLVENT PEER,2020-03-05,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+IndusInd Bank Ltd,Banking,SOLVENT PEER,2020-03-05,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Infrastructure Leasing & Financial Services (IL&FS),NBFC/Infra,DEFAULTED,2018-09-01,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+InterGlobe Aviation Ltd (IndiGo),Airlines,SOLVENT PEER,2019-06-20,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+JSW Steel Ltd,Steel,SOLVENT PEER,2017-07-26,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+Jet Airways (India) Ltd,Airlines,DEFAULTED,2019-06-20,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+Jubilant FoodWorks Ltd,F&B/Retail,SOLVENT PEER,2019-07-30,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Kotak Mahindra Bank Ltd,Banking,SOLVENT PEER,2020-03-05,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+L&T Finance Holdings Ltd,NBFC/Infra,SOLVENT PEER,2018-09-01,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+LIC Housing Finance Ltd,Housing Finance,SOLVENT PEER,2019-06-04,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+Mahindra & Mahindra Financial Services,NBFC,SOLVENT PEER,2021-10-08,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+PNB Housing Finance Ltd,Housing Finance,SOLVENT PEER,2019-06-04,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+RBL Bank Ltd,Banking,SOLVENT PEER,2020-03-05,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Reliance Capital Ltd,NBFC,DEFAULTED,2021-11-29,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+SREI Infrastructure Finance Ltd,NBFC,DEFAULTED,2021-10-08,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+Samvardhana Motherson International Ltd,Auto Ancillary,SOLVENT PEER,2017-07-24,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Shoppers Stop Ltd,Retail,SOLVENT PEER,2022-07-20,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Shriram Transport Finance Co Ltd,NBFC,SOLVENT PEER,2018-09-01,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+Siemens India Ltd,Capital Goods,SOLVENT PEER,2019-08-09,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+SpiceJet Ltd,Airlines,SOLVENT PEER,2019-06-20,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Sundaram Finance Ltd,NBFC,SOLVENT PEER,2021-11-29,0.039,0.039,Tier 3 (Safe/Watch),CORRECT SAFE
+Tata Steel Ltd,Steel,SOLVENT PEER,2017-07-26,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Trent Ltd,Retail,SOLVENT PEER,2022-07-20,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+V-Mart Retail Ltd,Retail,SOLVENT PEER,2022-07-20,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Videocon Industries Ltd,Consumer Durab.,DEFAULTED,2018-01-31,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
+Voltas Ltd,Consumer Durab.,SOLVENT PEER,2018-01-31,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Whirlpool of India Ltd,Consumer Durab.,SOLVENT PEER,2018-01-31,0.042,0.042,Tier 3 (Safe/Watch),CORRECT SAFE
+Yes Bank Ltd,Banking,DEFAULTED,2020-03-05,0.938,0.938,Tier 1 (Escalate),CORRECT ALARM
